@@ -30,11 +30,6 @@
     "react-dom": "^17.0.2"
   },
   "jest": {
-    "testEnvironment": "jsdom",
-    "coverageThreshold": {
-        "global": {
-            "lines": 90,
-        },
-    },
+    "testEnvironment": "jsdom"
   }
 }
